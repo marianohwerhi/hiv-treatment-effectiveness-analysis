@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+
+# Power BI temp files
+*.pbix.bak
+~$*.pbix
+
+# Excel temp files
+~$*.xlsx
